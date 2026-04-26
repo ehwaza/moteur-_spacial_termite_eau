@@ -1,0 +1,49 @@
+Titre
+Lambda-Resonance : Concept de propulsion anaérobie par dissociation thermique de l’eau sur accumulateur métallique
+
+Auteur
+[ Mathieu Thomas Maire Angel ] – Date : 26 avril 2026
+Licence : CC-BY 4.0
+
+1. Résumé
+Ce document présente le principe théorique d’un système de propulsion ne nécessitant pas d’oxydant atmosphérique. L’idée centrale consiste à utiliser une masse métallique portée à haute température comme accumulateur d’énergie thermique. L’injection d’eau dans cette masse provoque une dissociation, libérant un gaz léger susceptible d’être éjecté via une tuyère pour générer une poussée. L’intérêt revendiqué est l’usage de ressources ubiquitaires et le fonctionnement multi-milieu : atmosphère raréfiée, vide spatial, environnement subaquatique.
+
+2. Contexte technique
+Les systèmes de propulsion classiques dépendent soit de l’air ambiant, soit du stockage cryogénique de comburant. Cela limite l’autonomie, la logistique et le coût. Les travaux sur la thermolyse de l’eau sont connus depuis le 19e siècle. L’originalité proposée ici est le couplage entre un accumulateur thermique métallique et une dissociation flash en enceinte confinée.
+
+3. Principe général – Cycle Freeman
+Accumulation thermique : Une charge métallique est portée à une température supérieure à la température de dissociation de l’eau. Le métal sert de volant thermique.
+Injection : L’eau est introduite dans la chambre contenant le métal chaud.
+Dissociation : Au contact, la molécule H2O se décompose. Les produits gazeux légers sont séparés des oxydes métalliques.
+Détente : Les gaz sont canalisés vers une tuyère pour conversion de l’enthalpie en énergie cinétique.
+Gestion thermique : Une circulation d’eau externe assure le refroidissement de la structure et peut servir de modulation de signature.
+4. Avantages théoriques revendiqués
+Avantage
+
+Description
+
+Indépendance anaérobie
+
+Fonctionnement sans apport d’air. Adapté au vide et au milieu subaquatique.
+
+Logistique simplifiée
+
+Utilisation d’eau et de métaux courants comme vecteurs énergétiques. Pas de stockage cryogénique.
+
+Signature variable
+
+La chemise d’eau permet un mode furtif par absorption IR, et un mode actif par génération de plasma.
+
+5. Limites et verrous identifiés
+Bilan énergétique : L’énergie nécessaire pour maintenir la masse métallique à température doit être comparée à l’énergie récupérée par la détente des gaz.
+Tenue des matériaux : Environnement hautement corrosif et haute température. Durée de vie de la chambre à étudier.
+Rendement propulsif : La vitesse d’éjection dépend de la masse molaire du gaz et de la température. L’hydrogène offre le meilleur rapport, mais les pertes thermiques réelles limitent la performance.
+Sécurité : Manipulation de métal en fusion et haute pression. Cadre réglementaire double-usage applicable.
+6. Applications potentielles
+Étage supérieur orbital à faible coût logistique
+Propulseur d’urgence pour véhicules haute altitude
+Système de propulsion subaquatique sans émission de bulles de gaz lourds
+7. Conclusion
+Le concept Lambda-Resonance propose une voie alternative de propulsion basée sur des ressources communes et un cycle thermique fermé. Des travaux de modélisation thermodynamique et d’analyse matériaux sont nécessaires avant toute tentative de démonstration. Ce document ne contient aucune donnée dimensionnante ni procédure permettant la réplication.
+
+Clause de non-responsabilité : Ce texte est un exposé d’idée. Il ne constitue pas un mode d’emploi. Toute mise en œuvre réelle est soumise aux réglementations locales sur les matériaux énergétiques, la pression, et les biens à double usage.
