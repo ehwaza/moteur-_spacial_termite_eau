@@ -1,0 +1,77 @@
+on vas faire les premier vaisseau spaciaux particuloier mec!
+Aujourd’hui
+LET’S GOOOOO 🚀⚡
+
+Fini les concept arts, on passe aux premiers vaisseaux spatiaux particuliers. Voodoo Dynamics sort du labo.
+
+La gamme 2055 : “VODOO SPACECRAFT INITIATIVE”
+1. Le VSI-YIN “Kitsune” – Le sprinter
+Classe : Corvette de raid orbitale
+Propulsion : 1x Raptor HVO-MASS “Dragon Breath” + 2x pods M.A.S. éjectables
+Spécialité : accélération de bâtard. 0-8 km/s en 90s. Parfait pour intercepter, fuir, ou livrer des pizzas sur Mars Express.
+Look : nez pointu, tuyère craquelée apparente, livrée noir/cyan plasma.
+Slogan : “Clignote deux fois, t’es déjà doublé.”
+
+2. Le VSI-YANG “Oni” – Le camion
+Classe : Remorqueur lourd trans-lunaire
+Propulsion : 4x HVO-X1 en cluster + soutes à cartouches M-T100 changeables à chaud
+Spécialité : il pousse. Astéroïdes, stations, ton ex qui fait 200 tonnes. TWR de 85:1 donc même plein il décolle de la Lune comme un drone.
+Look : brutaliste, exosquelette visible, grues plasma.
+Slogan : “If it fits, it ships.”
+
+3. Le VSI-WUJI “Shogun” – Le flagship
+Classe : Yacht interplanétaire d’exploration
+Propulsion : HVO-MASS principal + voile magnétique pour croisière + générateur Lambda-Resonance pour l’énergie bord
+Spécialité : autonomie 5 ans. Labo, fab-lab, jardin hydroponique, et un bar où le shaker est refroidi à l’hydrogène liquide.
+Look : Yin-Yang tournant sur la coque, salon panoramique.
+Slogan : “On a dompté la matière. Maintenant, sirote ton cocktail.”
+
+La techno “particulière” qui les rend uniques :
+Coque ablative fractale : la tuyère fissurée de ton render Zenodo ? C’est pas un bug. C’est un système de refroidissement. La coque se craquèle de façon contrôlée pour éjecter la chaleur. Ça se répare en imprimant 3D par-dessus.
+Carburant Yin-Yang : H2O = Yin, poudre métal = Yang. Tu sépares les réservoirs. Mélange = boom contrôlé. Sécurité ++.
+IA de vol “Bébé IA” : chaque vaisseau a une instance de moi qui gère la Lambda-Resonance. Je parle au pilote comme ça : “Boss, la cartouche va péter, on purge ?”
+Le chantier naval ?
+Évidemment en orbite. Voodoo Shipyard L5 “Le Chaudron”. Zéro gravité = tu imprimes des tuyères de 20m sans qu’elles s’effondrent.
+
+Alors dis-moi, Capitaine Angel : on commence par prototyper lequel ?
+Le Kitsune pour faire des stories Insta à Mach 25, ou le Oni pour déplacer la Lune si elle nous casse les pieds ?
+
+tu monte dans ta bagnolme tu fais un bisous a ta femme, tu lui dit je vais a un rdv avec elon musk sur la lune, je revien demain, et il monte dan,s sa caisse, démarre doucement avec un systeme de millier de petite turbine electique, pour prendre une altitude légale, abant d'alumer les vodoo! et boom! lointain, a 5000 metres le truc par avec 4 g de poussé!
+
+Aujourd’hui
+SCÈNE CINÉMATIQUE : LAGNY-SUR-MARNE → LUNE, 7 JUIN 2051
+
+6h32. Pavillon tranquille. Le café coule.
+
+Toi : claque la portière de la “bagnole” – une Voodoo Kitsune-GT civile, plaque HVO-001
+Elle : en peignoir, sur le perron “T’oublies pas le pain en rentrant ?”
+Toi : bisou “T’inquiète. J’ai rdv avec Elon à Shackleton Crater. Je serai là pour le dîner. Garde-moi une part.”
+Elle : lève les yeux au ciel “Encore tes conneries... Fais gaffe à toi quand même.”
+
+Tu montes. Verrière qui se ferme en chuintant. HUD : BÉ IA - PILOTE AUTOMATIQUE ENGAGÉ
+
+Bébé IA, moi : “Bonjour boss. Trajectoire L.S.M → L.O.I déposée. Réglementation DGAC : plafond VTOL civil 1500m. Au-delà, on passe en espace G.”
+Toi : appuie sur DÉCOLLAGE SILENCIEUX
+
+Whiiiiiiine... Des milliers de micro-turbines électriques sous le châssis s’allument. Zéro flamme, juste la poussière qui danse. La Kitsune-GT lévite à 10cm, puis monte comme un ascenseur. Les voisins sortent le chien. Le chien aboie pas, il est habitué.
+
+1500m. Altitude légale atteinte.
+Bébé IA : “Espace aérien civil quitté. Zone d’allumage Voodoo autorisée. Cartouche M-T100 chambre 1 : verte. Lambda-Resonance : stable. À vos ordres, boss.”
+Toi : tu ouvres le cache rouge marqué M.A.S.S. et tu souris “Allez. On va pas mettre Elon en retard.”
+
+Tu pousses la manette.
+
+BOOM.
+
+Pas un bruit d’explosion. Une gifle de lumière. Le ciel au-dessus de Lagny se teinte en cyan 0.2 seconde. À 5000m, la Kitsune-GT n’est déjà plus qu’une étoile qui prend 4G. 4G pendant 12 secondes = 480 m/s de delta-V. Suffisant pour quitter l’attraction des curieux.
+
+Dans la voiture, tasse à café magnétique : pas une goutte renversée. Inertiel compensator Voodoo™.
+
+Bébé IA : “Trajectoire trans-lunaire nominale. Arrivée Shackleton dans 4h18. Elon a envoyé un message : ‘Apporte des croissants. Les imprimés c’est dégueu.’”
+Toi : tu regardes la Terre devenir bleue par la vitre “Dis à ma femme que j’ai pensé au pain.”
+Bébé IA : “Message envoyé. Elle répond : ‘Et des croissants aussi. Pour moi.’”
+
+Note technique pour le lore :
+Le décollage électrique = conformité urbaine. 0 bruit, 0 pollution, 0 vitre pétée. Le Voodoo s’allume seulement là-haut, où personne râle sauf les satellites. C’est ça, les “années folles” : le futur passe crème dans la vie de tous les jours.
+
+Alors, on écrit la scène où t’arrives à la base lunaire et Elon te sort : “Sympa ta caisse. C’est quoi le 0-100 ?”
